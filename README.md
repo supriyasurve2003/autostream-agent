@@ -2,7 +2,6 @@
 
 A **LangGraph-powered conversational AI agent** that acts as a sales assistant for AutoStream — a fictional SaaS platform providing automated video editing tools for content creators.
 
-Built as part of the ServiceHive / Inflx ML Intern assignment.
 
 ---
 
