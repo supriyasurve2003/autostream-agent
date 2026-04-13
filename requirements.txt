@@ -1,0 +1,14 @@
+# ── Core LLM framework ─────────────────────────────────────────────────────────
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-google-genai>=1.0
+langgraph>=0.1.19              # LangGraph for stateful agent graph
+
+# ── Alternate LLM providers (uncomment whichever you use) ─────────────────────
+# langchain-openai>=0.1.0      # GPT-4o-mini
+# langchain-google-genai>=1.0  # Gemini 1.5 Flash
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0           # Load .env for API keys
+typing-extensions>=4.9.0       # TypedDict helpers
+
