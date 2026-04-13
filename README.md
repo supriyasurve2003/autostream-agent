@@ -32,7 +32,7 @@ autostream-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/autostream-agent.git
+git clone https://github.com/supriyasurve2003/autostream-agent.git
 cd autostream-agent
 ```
 
